@@ -59,7 +59,7 @@ console.log(colores);
 
 colores.forEach(function (el,index){
     console.log(`<li id="${index}"> ${el}</li>`);
-    alert (`<li id="${index}"> ${el}</li>`);
-   
+    /*alert (`<li id="${index}"> ${el}</li>`);
+   */
 
 });
